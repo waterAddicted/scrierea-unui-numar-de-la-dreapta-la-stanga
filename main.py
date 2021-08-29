@@ -17,7 +17,7 @@ Varianta 2 M1
 '''
 a = int(input())
 while a:
-    print(a%10,sep='',end='')
+    print(a%10,end='')
     a //= 10
 print('\n')
 '''
